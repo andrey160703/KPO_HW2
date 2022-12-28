@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello ывфывфывфывфы!");
+        String a = "1231231";
+        System.out.print(a.indexOf("a"));
     }
 }
